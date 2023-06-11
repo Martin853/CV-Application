@@ -1,7 +1,7 @@
 import React from 'react';
-import { GeneralInformation } from './GeneralInformation';
-import { EducationInformation } from './EducationInformation';
-import { ExperienceInformation } from './ExperienceInformation';
+import { GeneralInformation } from './Input/GeneralInformation';
+import { EducationInformation } from './Input/EducationInformation';
+import { ExperienceInformation } from './Input/ExperienceInformation';
 
 export const InputSection = () => {
   return (
